@@ -1,5 +1,5 @@
 This is a game made with instructor's consent for COMP 2611 project.
-Author: BAI Chunyan
+<br>*Author: BAI Chunyan
 
 How to play:
 
